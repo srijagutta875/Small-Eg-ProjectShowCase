@@ -131,10 +131,4 @@ Returns a response containing the list of all projects
 
 </details>
 
-<details>
 
-<summary>Font-families</summary>
-
-- Roboto
-
-</details>
